@@ -1,1 +1,9 @@
-# C-Asymmetrische-Verschluesselung
+# C-Asymmetrische-Verschluesselung / Asymmetric Encryption
+
+Webseite: http://javacrypto.bplaced.net Die Programme in diesem Bereich sind Beispiele für die asymmetrische Verschlüsselung.
+
+Sicherheitshinweis * Einige Programme sind kryptographisch nicht sicher und sollten nicht für den Produktiveinsatz genutzt werden, sie werden hier nur zu Lern- und Lehrzwecken bereitgestellt.
+
+Website: http://javacrypto.bplaced.net The programs in this area show examples of asymmetric encryption.
+
+Security notice * Some program are cryptographic unsafe and should not used in any production case, they are provided for learning purposes only.
